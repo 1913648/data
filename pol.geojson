@@ -7,62 +7,7 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [
-              -2.1383491243884976,
-              57.119055764160805
-            ],
-            [
-              -2.1381189362031137,
-              57.11860427995046
-            ],
-            [
-              -2.13801425987171,
-              57.11860793293502
-            ],
-            [
-              -2.1378875045995187,
-              57.11838175564395
-            ],
-            [
-              -2.1370056173216483,
-              57.11852859986857
-            ],
-            [
-              -2.13720048059443,
-              57.11887616508909
-            ],
-            [
-              -2.1372653705586515,
-              57.11887105908332
-            ],
-            [
-              -2.1374031756348586,
-              57.11913908095457
-            ],
-            [
-              -2.1377688678217623,
-              57.11913745667448
-            ],
-            [
-              -2.1383491243884976,
-              57.119055764160805
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "buildingid":"01",
-        "buildingname": "RGU Sport"
-      },
-      "id":01
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
+                  [
               -2.136111259460449,
               57.118345657786755
             ],
@@ -84,25 +29,24 @@
             ]
           ]
         ]
-      }
-    },
-      "properties": {
-        "buildingid":"02",
-        "buildingname": "The Ishbel Gordon Building"
       },
-    "id":02
+      "properties": {
+        "Building_ID": "11",
+        "Building_name": "The Ishbel Gordon Building"
+      },
+      "id": 11
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
-          [
+          [     
             [
           -2.132804263142873,
           57.118806536882374
         ],
-        [
+               [
           -2.132686126925023,
           57.118937347989345
         ],
@@ -313,11 +257,11 @@
           ]
         ]
       },
-  "properties": {
-    "buildingid": "03",
-      "buildingname": "The Sir Ian Wood Building"
+      "properties": {
+        "STATE_ID": "10",
+        "STATE_NAME": "The Sir Ian Wood Building"
       },
-"id":03
+      "id": 10
     }
   ]
 }
