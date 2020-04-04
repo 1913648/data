@@ -2,6 +2,7 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -49,16 +50,14 @@
           ]
         ]
       },
-      "type": "Feature",
       "properties": {
+        "buildingid":"01",
         "buildingname": "RGU Sport"
-      }
+      },
+      "id":01
     },
     {
       "type": "Feature",
-      "properties": {
-        "buildingname": "The Ishbel Gordon Building"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -87,11 +86,14 @@
         ]
       }
     },
+      "properties": {
+        "buildingid":"02",
+        "buildingname": "The Ishbel Gordon Building"
+      },
+    "id":02
+    },
     {
       "type": "Feature",
-      "properties": {
-      "buildingname": "The Sir Ian Wood Building"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -310,7 +312,12 @@
         ]
           ]
         ]
-      }
+      },
+  "properties": {
+    "buildingid": "03",
+      "buildingname": "The Sir Ian Wood Building"
+      },
+"id":03
     }
   ]
 }
