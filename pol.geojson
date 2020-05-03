@@ -32,7 +32,19 @@
       },
       "properties": {
         "Building_ID": "11",
-        "Building_name": "The Ishbel Gordon Building"
+        "Building_name": "The Ishbel Gordon Building",
+        "SEM1":"SEMESTER 1 & 2",
+        "SEM2":"SEMESTER 3",
+        "OTHERS1":"Monday - Friday",
+        "OTHERS2":"Saturday & Sunday",
+        "oh1": "07:00 - 19:00",
+        "OH2": "CLOSED",
+        "OH3": "07:00 - 19:00",
+        "OH4": "CLOSED",
+        "DP1": "- School Of Nursing & Midwifery",
+        "DP2": "- School Of Health Sciences",
+        "DP3": "- School Of Applied Social Sciences",
+        "DP4": "- The Graduate School"
       },
       "id": 11
     },
@@ -316,11 +328,23 @@
             ],
             [-2.138349, 57.119055]
           ]
-          ]
+        ]
       },
       "properties": {
         "Building_ID": "12",
-        "Building_nameE": "The Sir Ian Wood Building"
+        "Building_name": "RGU Sport",
+        "SEM1":"SEMESTER 1 & 2",
+        "SEM2":"SEMESTER 3",
+        "OTHERS1":"Peak",
+        "OTHERS2":"Off Peak",
+        "oh1": "06:00 - 22:00",
+        "OH2": "09:00 - 19:00",
+        "OH3": "Valid all opening hours",
+        "OH4": "Monday to Friday 06:00 - 16:00, Saturday and Sunday 09:00 - 19:00",
+        "DP1": "",
+        "DP2": "",
+        "DP3": "",
+        "DP4": ""
       },
       "id": 12
     },
@@ -349,7 +373,19 @@
       },
       "properties": {
         "Building_ID": "13",
-        "Building_name": "ICRGU International College"
+        "Building_name": "ICRGU International College",
+        "SEM1":"",
+        "SEM2":"",
+        "OTHERS1":"Monday - Friday",
+        "OTHERS2":"Saturday & Sunday",
+        "oh1": "08:30 - 17:30",
+        "OH2": "CLOSED",
+        "OH3": "",
+        "OH4": "",
+        "DP1": "",
+        "DP2": "",
+        "DP3": "",
+        "DP4": ""
       },
       "id": 13
     },
@@ -390,7 +426,19 @@
       },
       "properties": {
         "Building_ID": "14",
-        "Building_name": "Aberdeen Business School"
+        "Building_name": "Aberdeen Business School",
+        "SEM1":"SEMESTER 1 & 2",
+        "SEM2":"SEMESTER 3",
+        "OTHERS1":"Monday - Friday",
+        "OTHERS2":"Saturday & Sunday",
+        "oh1": "07:00 -19:00",
+        "OH2": "CLOSED",
+        "OH3": "07:00 -19:00",
+        "OH4": "",
+        "DP1": "- The Law School",
+        "DP2": "- School of Creative and Cultrual Business",
+        "DP3": "- Aberdeen Business School",
+        "DP4": ""
       },
       "id": 14
     },
