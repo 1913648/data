@@ -308,9 +308,38 @@
       },
       "properties": {
         "STATE_ID": "12",
-        "STATE_NAME": "RGU Sport"
+        "STATE_NAME": "The Sir Ian Wood Building"
       },
       "id": 12
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.137851,
+              57.118331
+            ],
+            [-2.137753, 57.11817],
+            [
+              -2.136886,
+              57.118323
+            ],
+            [
+              -2.136971,
+              57.118477
+            ],
+            [-2.137851, 57.118331]
+          ]
+        ]
+      },
+      "properties": {
+        "STATE_ID": "13",
+        "STATE_NAME": "ICRGU International College"
+      },
+      "id": 13
     }
   ]
 }
