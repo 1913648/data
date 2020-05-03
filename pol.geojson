@@ -467,7 +467,19 @@
       },
       "properties": {
         "Building_ID": "15",
-        "Building_name": "Kaim House"
+        "Building_name": "Kaim House",
+        "SEM1":"SEMESTER 1 & 2",
+        "SEM2":"SEMESTER 3",
+        "OTHERS1":"Monday - Friday",
+        "OTHERS2":"Saturday & Sunday",
+        "oh1": "07:00 -19:00",
+        "OH2": "CLOSED",
+        "OH3": "07:00 -19:00",
+        "OH4": "",
+        "DP1": "",
+        "DP2": "",
+        "DP3": "",
+        "DP4": ""
       },
       "id": 15
     },
@@ -518,7 +530,19 @@
       },
       "properties": {
         "Building_ID": "16",
-        "Building_name": "Kaim Cottage"
+        "Building_name": "Kaim Cottage",
+        "SEM1":"SEMESTER 1 & 2",
+        "SEM2":"SEMESTER 3",
+        "OTHERS1":"Monday - Friday",
+        "OTHERS2":"Saturday & Sunday",
+        "oh1": "07:00 -19:00",
+        "OH2": "CLOSED",
+        "OH3": "07:00 -19:00",
+        "OH4": "",
+        "DP1": "",
+        "DP2": "",
+        "DP3": "",
+        "DP4": ""
       },
       "id": 16
     },
@@ -553,7 +577,19 @@
       },
       "properties": {
         "Building_ID": "17",
-        "Building_name": "Garthedee Medical Practice"
+        "Building_name": "Garthedee Medical Practice",
+        "SEM1":"SEMESTER 1 & 2",
+        "SEM2":"SEMESTER 3",
+        "OTHERS1":"Monday - Friday",
+        "OTHERS2":"Saturday & Sunday",
+        "oh1": "07:00 -19:00",
+        "OH2": "CLOSED",
+        "OH3": "07:00 -19:00",
+        "OH4": "",
+        "DP1": "",
+        "DP2": "",
+        "DP3": "",
+        "DP4": ""
       },
       "id": 17
     },
@@ -595,7 +631,19 @@
       },
       "properties": {
         "Building_ID": "18",
-        "Building_name": "Gray's School of Art"
+        "Building_name": "Gray's School of Art",
+        "SEM1":"SEMESTER 1 & 2",
+        "SEM2":"SEMESTER 3",
+        "OTHERS1":"Monday - Friday",
+        "OTHERS2":"Saturday & Sunday",
+        "oh1": "07:00 -22:00",
+        "OH2": "09:30 - 18:00 & 09:30 - 15:00",
+        "OH3": "07:00 -19:00",
+        "OH4": "CLOSED",
+        "DP1": "",
+        "DP2": "",
+        "DP3": "",
+        "DP4": ""
       },
       "id": 18
     }
