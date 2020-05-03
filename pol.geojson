@@ -259,7 +259,19 @@
       },
       "properties": {
         "Building_ID": "10",
-        "Building_name": "The Sir Ian Wood Building"
+        "Building_name": "The Sir Ian Wood Building",
+        "SEM1":"SEMESTER 1 & 2",
+        "SEM2":"SEMESTER 3",
+        "OTHERS1":"Monday - Friday",
+        "OTHERS2":"Saturday & Sunday",
+        "oh1": "07:00 - 23:00",
+        "OH2": "09:00 - 21:00",
+        "OH3": "07:00 - 23:00",
+        "OH4": "09:00 - 19:00",
+        "DP1": "- School Of Engineering",
+        "DP2": "- School Of Computing Science & Digital Media",
+        "DP3": "- School Of Pharmacy & Life Sciences",
+        "DP4": "- The Scott Sutherland School of Architecture & Built Environment"
       },
       "id": 10
     },
