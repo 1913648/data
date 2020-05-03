@@ -258,8 +258,8 @@
         ]
       },
       "properties": {
-        "STATE_ID": "10",
-        "STATE_NAME": "The Sir Ian Wood Building"
+        "Building_ID": "10",
+        "Building_name": "The Sir Ian Wood Building"
       },
       "id": 10
     },
@@ -307,8 +307,8 @@
           ]
       },
       "properties": {
-        "STATE_ID": "12",
-        "STATE_NAME": "The Sir Ian Wood Building"
+        "Building_ID": "12",
+        "Building_nameE": "The Sir Ian Wood Building"
       },
       "id": 12
     },
@@ -336,8 +336,8 @@
         ]
       },
       "properties": {
-        "STATE_ID": "13",
-        "STATE_NAME": "ICRGU International College"
+        "Building_ID": "13",
+        "Building_name": "ICRGU International College"
       },
       "id": 13
     }
